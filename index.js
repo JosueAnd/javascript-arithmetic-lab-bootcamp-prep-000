@@ -13,9 +13,3 @@ function divide(a, b) {
 function inc(a) {
   a++;
 }
-function dec(a) {
-  a--;
-}
-function makeInt(a) {
-  return parseInt(a);
-}
