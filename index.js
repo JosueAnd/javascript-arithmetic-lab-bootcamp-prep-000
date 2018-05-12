@@ -1,3 +1,5 @@
-function add(a,b) {
-  return `${a}+${b}`
+function add() {
+  var a = 726;
+  var b = 653;
+  return `${a}+${b}`;
 }
